@@ -1,2 +1,2 @@
-# sdg_8_5
+# SDG 8 Target 8.5
 Analysis of SDG 8 Target 8.5 in Vietnam
