@@ -35,8 +35,8 @@ Average hourly earnings of female and male employees, by occupation, age and per
 ### Indicator 8.5.2
 Unemployment rate, by sex, age and persons with disabilities
 
-### 8.5.1
+## 8.5.1
 
-#### Rationale
+### Rationale
 
 Earnings are a key aspect of quality of employment and living conditions. Information on hourly earnings disaggregated by various classifications (sex, age, occupation, disability status) provides some indication of the extent to which pay equality is respected or achieved.
