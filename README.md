@@ -79,3 +79,16 @@ Consult Jupyter Notebook file (sdg_8_5.ipynb)
 - Room for Improvement? Unemployment rate by age for age group 15-24
 - Recommendation? More data on age group 15-24
 
+## Conclusion - Target 8.5 in Vietnam
+
+By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value
+
+- Indicator 8.5.1: Average hourly earnings of female and male employees, by occupation, (age and persons with disabilities - no data)
+Progress? Average Hourly Earnings
+Room for Improvement? Gender Gap in Average Hourly Earnings Across Occupation and Over Time
+Recommendation? Data on Age and Persons with Disabilities
+
+- Indicator 8.5.2: Unemployment rate, by sex, age (and persons with disabilities - no data)
+Progress? Unemployment rate gap by sex
+Room for Improvement? Unemployment rate by age for age group 15-24
+Recommendation? More data on age group 15-24
