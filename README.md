@@ -1,11 +1,9 @@
 # Sustainable Development Goal 8 Target 8.5 in Vietnam
-
 Exploratory Data Analysis of SDG 8 Target 8.5 in Vietnam using SQLite, Pandas, and Matplotlib.
 
 By: Trang Ha Nguyen (Helen), Pomona 2024
 
 ## Introduction
-
 The United Nations Sustainable Development Goals (SDGs) are targets for global development adopted in September 2015, set to be achieved by 2030. All countries of the world have agreed to work towards achieving these goals.
 
 Our SDG Tracker presents data across all available indicators from the Our World in Data database, using official statistics from the UN and other international organizations. It is a free, open-access publication that tracks global progress towards the SDGs and allows people around the world to hold their governments accountable to achieving the agreed goals.
@@ -17,7 +15,6 @@ This new version of our SDG-Tracker was launched on 28th June 2018. We will keep
 For many Indicators data is available, but major data gaps remain. If you are aware of high-quality data we have yet to include please notify us. We hope that this collaborative approach allows us to support the United Nations in developing the most complete and up-to-date sources for tracking global progress to 2030.
 
 ## Goal 8: Decent work and economic growth
-
 Over the past 25 years the number of workers living in extreme poverty has declined dramatically, despite the lasting impact of the 2008 economic crisis and global recession. In developing countries, the middle class now makes up more than 34 percent of total employment – a number that has almost tripled between 1991 and 2015.
 
 However, as the global economy continues to recover we are seeing slower growth, widening inequalities, and not enough jobs to keep up with a growing labour force. According to the International Labour Organization, more than 204 million people were unemployed in 2015.
@@ -36,7 +33,6 @@ Average hourly earnings of female and male employees, by occupation, age and per
 Unemployment rate, by sex, age and persons with disabilities
 
 ## Process
-
 ![Process PAA](img/paa.jpg)
 
 Download, Process, and Clean Data
@@ -49,11 +45,9 @@ Download, Process, and Clean Data
 ## 8.5.1 Average hourly earnings of female and male employees, by occupation, age and persons with disabilities
 
 ### Rationale
-
 Earnings are a key aspect of quality of employment and living conditions. Information on hourly earnings disaggregated by various classifications (sex, age, occupation, disability status) provides some indication of the extent to which pay equality is respected or achieved.
 
 ### Limitation & Discrepancy
-
 - Missing 2010 data 
 - No data on age and disability status → Can only assess 8.5.1 based on average hourly earnings of female and male employees, by occupation
 - Earnings statistics present a number of complications in terms of their international comparability, most of which arise from the variety of possible sources of data. The various sources available -- establishment surveys, household surveys and administrative records -- differ in their methods, objectives and scope, which influences the results obtained. The coverage of the source may vary in terms of the geographical areas covered, the workers covered (for example, part-time workers or informal workers may be excluded) and the establishments covered (for example, establishments below a certain size or of a certain sector may be excluded). In cases where the earnings of workers excluded from the coverage of the source are significantly different than those of workers included, the statistics would not be representative of the country as a whole and would not be strictly comparable to those of countries using a more comprehensive source.
@@ -78,6 +72,10 @@ The unemployment rate conveys the percentage of persons in the labour force who 
 - The significance and meaning of the unemployment rate could be questioned: Even though in most developed countries the unemployment rate is useful as an indicator of labour market performance, and specifically, as a key measure of labour underutilization, in many developing countries, the significance and meaning of the unemployment rate could be questioned. In the absence of unemployment insurance systems or social safety nets, persons of working age must avoid unemployment, resorting to engaging in some form of economic activity, however insignificant or inadequate. Thus, in this context, other measures should supplement the unemployment rate to comprehensively assess labour underutilization. The unemployment rate is dependent on the geographical coverage of the survey since urban and rural areas tend to have significant differences in the incidence of unemployment. It is important to note that unemployment indicators do not convey any information on the characteristics of the unemployed (their education level, ethnic origin, socio-economic background, work experience, duration of unemployment, etc.), which is crucial to cast light on labour market failures.
 
 ### Analysis
+Consult Jupyter Notebook file (sdg_8_5.ipynb)
 
 ### Assessment - Target 8.5 - Indicator 8.5.2
+- Progress? Unemployment rate gap by sex
+- Room for Improvement? Unemployment rate by age for age group 15-24
+- Recommendation? More data on age group 15-24
 
