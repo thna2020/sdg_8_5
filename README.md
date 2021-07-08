@@ -89,6 +89,6 @@ Room for Improvement? Gender Gap in Average Hourly Earnings Across Occupation an
 Recommendation? Data on Age and Persons with Disabilities<br /> 
 
 - Indicator 8.5.2: Unemployment rate, by sex, age (and persons with disabilities - no data)
-Progress? Unemployment rate gap by sex
-Room for Improvement? Unemployment rate by age for age group 15-24
-Recommendation? More data on age group 15-24
+Progress? Unemployment rate gap by sex<br /> 
+Room for Improvement? Unemployment rate by age for age group 15-24<br /> 
+Recommendation? More data on age group 15-24<br /> 
