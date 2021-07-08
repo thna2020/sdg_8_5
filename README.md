@@ -35,6 +35,10 @@ Average hourly earnings of female and male employees, by occupation, age and per
 ### Indicator 8.5.2
 Unemployment rate, by sex, age and persons with disabilities
 
+## Process
+
+![Process PAA](img/paa.jpg)
+
 ## 8.5.1
 
 ### Rationale
