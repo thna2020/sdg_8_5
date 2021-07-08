@@ -51,3 +51,10 @@ Download, Process, and Clean Data
 ### Rationale
 
 Earnings are a key aspect of quality of employment and living conditions. Information on hourly earnings disaggregated by various classifications (sex, age, occupation, disability status) provides some indication of the extent to which pay equality is respected or achieved.
+
+### Limitation & Discrepancy
+
+- Missing 2010 data 
+- No data on age and disability status → Can only assess 8.5.1 based on average hourly earnings of female and male employees, by occupation
+- Earnings statistics present a number of complications in terms of their international comparability, most of which arise from the variety of possible sources of data. The various sources available -- establishment surveys, household surveys and administrative records -- differ in their methods, objectives and scope, which influences the results obtained. The coverage of the source may vary in terms of the geographical areas covered, the workers covered (for example, part-time workers or informal workers may be excluded) and the establishments covered (for example, establishments below a certain size or of a certain sector may be excluded). In cases where the earnings of workers excluded from the coverage of the source are significantly different than those of workers included, the statistics would not be representative of the country as a whole and would not be strictly comparable to those of countries using a more comprehensive source.
+- When using household surveys as a source of earnings statistics, there are a number of issues related to the accuracy of the earnings information reported by the respondents. They may over declare or under declare their earnings for various reasons, or they may report gross or net wages while including or excluding bonuses and benefits, without distinction. This naturally affects the reliability of the results.
