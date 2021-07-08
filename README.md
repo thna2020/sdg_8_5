@@ -39,6 +39,13 @@ Unemployment rate, by sex, age and persons with disabilities
 
 ![Process PAA](img/paa.jpg)
 
+Download, Process, and Clean Data
+- Download Excel file from UNStats
+- View Excel file
+- Delete empty, repetitive, and irrelevant columns
+- Export to CSV 
+- Extract Vietnam’s data from initial dataset with SQL in DB Browser for SQLite
+
 ## 8.5.1
 
 ### Rationale
