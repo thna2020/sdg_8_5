@@ -46,7 +46,7 @@ Download, Process, and Clean Data
 - Export to CSV 
 - Extract Vietnam’s data from initial dataset with SQL in DB Browser for SQLite
 
-## 8.5.1
+## 8.5.1 Average hourly earnings of female and male employees, by occupation, age and persons with disabilities
 
 ### Rationale
 
