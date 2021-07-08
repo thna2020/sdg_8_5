@@ -92,3 +92,11 @@ Recommendation? Data on Age and Persons with Disabilities<br />
 Progress? Unemployment rate gap by sex<br /> 
 Room for Improvement? Unemployment rate by age for age group 15-24<br /> 
 Recommendation? More data on age group 15-24<br /> 
+
+## References
+- “Goal 8: Decent Work and Economic Growth: UNDP in Viet Nam.” UNDP, www.vn.undp.org/content/vietnam/en/home/sustainable-development-goals/goal-8-decent-work-and-economic-growth.html. 
+- “Những Sự Kiện Kinh Tế Nổi Bật Nhất Trong Năm 2012.” Hanoimoi.com.vn, 1 Jan. 2013, hanoimoi.com.vn/tin-tuc/Kinh-te/571246/nhung-su-kien-kinh-te-noi-bat-nhat-trong-nam-2012.
+- “Resolution Concerning Updating the International Standard Classification of Occupations.” International Labour Organization, International Labour Organization, www.ilo.org/public/english/bureau/stat/isco/docs/resol08.pdf. 
+- “SDG Indicators - SDG Indicators.” United Nations, United Nations, unstats.un.org/sdgs/metadata/?Text=&amp;Goal=8&amp;Target=8.5. 
+- “UNSD - Classification Detail.” United Nations, United Nations, unstats.un.org/unsd/classifications/Family/Detail/1067.
+- “Việt Nam 2018 Và 10 Sự Kiện Kinh Tế - Xã Hội Đáng Nhớ.” VnEconomy, 31 Dec. 2018, vneconomy.vn/viet-nam-2018-va-10-su-kien-kinh-te-xa-hoi-dang-nho.htm.
