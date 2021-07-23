@@ -82,9 +82,9 @@ By 2030, achieve full and productive employment and decent work for all women an
 > Recommendation? Data on Age and Persons with Disabilities<br /> 
 
 - Indicator 8.5.2: Unemployment rate, by sex, age (and persons with disabilities - no data)
-> Progress? Unemployment rate gap by sex<br /> 
-> Room for Improvement? Unemployment rate by age for age group 15-24<br /> 
-> Recommendation? More data on age group 15-24<br /> 
+> Progress? Unemployment Rate Gap by Sex<br /> 
+> Room for Improvement? Unemployment Rate by Age for Age group 15-24<br /> 
+> Recommendation? More Data on Age group 15-24<br /> 
 
 ## References
 - “Goal 8: Decent Work and Economic Growth: UNDP in Viet Nam.” UNDP, www.vn.undp.org/content/vietnam/en/home/sustainable-development-goals/goal-8-decent-work-and-economic-growth.html. 
