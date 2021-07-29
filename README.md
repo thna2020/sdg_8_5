@@ -1,6 +1,6 @@
 # Sustainable Development Goal 8 Target 8.5 in Vietnam
 
-<span style="color:red";>Click Reload when file is not properly loaded for preview.</span>
+ :exclamation: :exclamation: :exclamation: Click **Reload** when file is not properly loaded for preview. :exclamation: :exclamation: :exclamation:
 
 Exploratory Data Analysis of SDG 8 Target 8.5 in Vietnam using SQLite, Pandas, and Matplotlib.
 
