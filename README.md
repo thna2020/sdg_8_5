@@ -50,7 +50,7 @@ Earnings are a key aspect of quality of employment and living conditions. Inform
 - When using household surveys as a source of earnings statistics, there are a number of issues related to the accuracy of the earnings information reported by the respondents. They may over declare or under declare their earnings for various reasons, or they may report gross or net wages while including or excluding bonuses and benefits, without distinction. This naturally affects the reliability of the results. (United Nations)
 
 ### Analysis
-Consult Jupyter Notebook file (sdg_8_5.ipynb)
+Consult [Jupyter Notebook file](sdg_8_5.ipynb)
 
 ### Assessment - Target 8.5 - Indicator 8.5.1
 - Progress? Average Hourly Earnings
