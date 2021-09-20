@@ -68,7 +68,7 @@ The unemployment rate conveys the percentage of persons in the labour force who 
 - The significance and meaning of the unemployment rate could be questioned: Even though in most developed countries the unemployment rate is useful as an indicator of labour market performance, and specifically, as a key measure of labour underutilization, in many developing countries, the significance and meaning of the unemployment rate could be questioned. In the absence of unemployment insurance systems or social safety nets, persons of working age must avoid unemployment, resorting to engaging in some form of economic activity, however insignificant or inadequate. Thus, in this context, other measures should supplement the unemployment rate to comprehensively assess labour underutilization. The unemployment rate is dependent on the geographical coverage of the survey since urban and rural areas tend to have significant differences in the incidence of unemployment. It is important to note that unemployment indicators do not convey any information on the characteristics of the unemployed (their education level, ethnic origin, socio-economic background, work experience, duration of unemployment, etc.), which is crucial to cast light on labour market failures. (United Nations)
 
 ### Analysis
-Consult Jupyter Notebook file (sdg_8_5.ipynb)
+Consult [Jupyter Notebook file](sdg_8_5.ipynb)
 
 ### Assessment - Target 8.5 - Indicator 8.5.2
 - Progress? Unemployment rate gap by sex
